@@ -3,9 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00CED1&width=600&lines=Hi+there%2C+I'm+Deepika+B+%F0%9F%94%90;Cybersecurity+Enthusiast+%7C+Developer" alt="Typing SVG" />
 </h1>
-<img align="right" width="280" height="200" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
-
-
+<img align="right" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Pre-Final Year B.Tech - Computer Science & Engineering (ICB)  
 👩‍💻 Cybersecurity Enthusiast | Developer  
